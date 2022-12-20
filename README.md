@@ -9,13 +9,4 @@
 - 💬 Ask me about any of my projects that you may find interesting!
 - 📫 How to reach me: jphironimus@gmail.com
 
-<details open>
-<summary> Language proficiencies </summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| Java      |
-|     3| C++       |
-|     4| SQL       |
-</details>
+Languages: Python, Java, C++, SQL
