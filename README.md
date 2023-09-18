@@ -9,4 +9,4 @@
 - 💬 Ask me about any of my projects that you may find interesting!
 - 📫 How to reach me: jphironimus@gmail.com
 
-Languages: Python, Java, C++, SQL
+Languages: Python, Java, C++, SQL, JavaScript
